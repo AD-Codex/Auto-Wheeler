@@ -1,0 +1,20 @@
+
+# system controllers
+
+direction relay 1 pin
+1. dir
+
+acceleration 3 pins
+1. EN
+2. IN1
+3. IN2
+
+sterring 3 pins
+1. EN
+2. R_PWM
+3. L_PWM
+
+
+# Human inputs
+
+direction 
